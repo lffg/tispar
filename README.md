@@ -1,0 +1,3 @@
+# tispar
+
+plz use deno
